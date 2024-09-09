@@ -1,0 +1,3 @@
+# Notebooks contain the code used to calculate the errors on the position extracted from the astrophotometry my group took at Stanford Student Observatory. Our project consisted of calculating the asteroid Pallas'
+# orbit by using observations and data we took. Using Monte Carlo Markov Chain, I was able to deduce the error on the position returned from ASTAP image solving to a high degree of sensitivity, allowing for our
+# calculation of the asteroid's orbit to be extremely precise. The notebooks here only contain the code for the MCMC error calculation.
