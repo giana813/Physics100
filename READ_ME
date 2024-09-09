@@ -1,3 +1,6 @@
-# Notebooks contain the code used to calculate the errors on the position extracted from the astrophotometry my group took at Stanford Student Observatory. Our project consisted of calculating the asteroid Pallas'
-# orbit by using observations and data we took. Using Monte Carlo Markov Chain, I was able to deduce the error on the position returned from ASTAP image solving to a high degree of sensitivity, allowing for our
-# calculation of the asteroid's orbit to be extremely precise. The notebooks here only contain the code for the MCMC error calculation.
+# MCMC_Errors notebooks detail the process of determining the error on the position extracted through astrophotometric images. Monte Carlo Markov Chain was chosen due to the high parameter space of the orbital 
+# parameters. 
+
+# Orbit_determination.ipynb entails the code for determining the orbital parameters using the positional information returned from the previous notebook.
+
+# orbit_det.py is a script that aids with orbital determination
