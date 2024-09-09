@@ -3,4 +3,4 @@
 
 # Orbit_determination.ipynb entails the code for determining the orbital parameters using the positional information returned from the previous notebook.
 
-# orbit_det.py is a script that aids with orbital determination
+# complete_process.py is a script that aids with image solving, calibration, and alignment.
